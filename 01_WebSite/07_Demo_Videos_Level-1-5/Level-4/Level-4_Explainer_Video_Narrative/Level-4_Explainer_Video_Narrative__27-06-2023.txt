@@ -1,0 +1,199 @@
+﻿This video describes Level 3 of VisCommerce’s offerings. A series of 5 levels.
+
+
+I think we need to change ergonomic room
+
+
+Yes sir, right
+
+
+yes, find ergonomic room as per OSHA guideline
+
+
+Sure sir, I am find now
+
+
+Yes, sure find it
+
+
+Yes sir
+
+
+
+
+Real-time sync of changes in 3D models (e.g./ seller, buyer)
+
+
+VisCommerce Collaboration Server
+
+
+
+
+Hii
+
+
+Good afternoon. May I help you
+
+
+Sure. I am trying to design my home office ergonomically
+
+
+Wonderful. I could help you with furniture, lighting etc
+
+
+Certainly. I am also consulting OSHA Guidelines for ergonomics.
+
+
+Nice. May, I show you Chairs
+
+
+Yes, Please
+
+
+Here are 3 choices
+
+
+Thx. Let me try Chair with lower back support
+
+
+Sure. Let me show you that live
+
+
+Nice. Never had this experience online
+
+
+It’s from Patent-pending technology from VisCommerce
+
+
+Nice. Can I see Different materials please.
+
+
+Sure. You can check this out live as well.
+
+
+Nice. I will pick the black version
+
+
+
+
+
+
+Sure. How about a table ?.
+
+
+Yes. I need height adjustment
+
+
+Manual or Automatic
+
+
+Manual please
+
+
+Here, please try this
+
+
+Perfect. Looks right for me. Any choices for table surfaces ?.
+
+
+Sure, you could try these
+
+
+Nice. I will take the shiny wooden surface with grains.
+
+
+Sure. How about lighting ?. 
+
+
+I prefer desktop lights.
+
+
+How about this ?. 
+
+
+Great. What controls does it have ?.
+
+
+On/Off, Intensity & Color Control
+
+
+Perfect.
+
+
+
+
+
+
+Real-time comments in context
+
+
+Price?
+
+
+3,000$
+
+
+It is available now?
+
+
+Will available in a week.
+
+
+
+
+
+
+Version-Control of 3D scenes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Share 3D scene via URLs (Figma style)
+
+
+
+
+Buyer selected Chair-01 at 9 am.
+
+
+Seller suggests Chair-03 with neck support at 11 am
+
+
+Buyer ok’s Chair-03
+
+
+
+
+
+
+
+
+Audio, Video, Chat integration
+
+
+Buyer Screen
+
+
+Seller Screen
+
+
+
+
+Buyer can control check chair and can talk with seller live via audio and video.
+
+
+Buyers and sellers can chat via chat integration.
